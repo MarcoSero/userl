@@ -6,10 +6,6 @@ Launch with `ruby script.rb` and type the GitHub username.
 ```sh
 $ ruby script.rb
 
-Insert the GitHub's nickname of the user you are interested with:
-marcosero
-
-Analyzing marcosero's repos...................
 +----------------------------+----------+----------+-----------------+
 |                      marcosero's repositories                      |
 +----------------------------+----------+----------+-----------------+
