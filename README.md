@@ -1,10 +1,17 @@
-# User Languages
+# userl
 ### A CLI to get the most used languages of a GitHub user
 
-Launch with `ruby script.rb` and type the GitHub username.
+#### Install
+Install via RubyGems
 
 ```sh
-$ ruby script.rb
+$ gem install userl
+```
+
+#### Usage
+
+```sh
+$ userl marcosero
 
 +----------------------------+----------+----------+-----------------+
 |                      marcosero repositories                      |

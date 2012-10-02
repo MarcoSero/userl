@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'userl'
+puts Userl.start(ARGV[0])
