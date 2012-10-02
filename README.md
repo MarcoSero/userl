@@ -1,6 +1,8 @@
 # userl
 ### A CLI to get the most used languages of a GitHub user
 
+___
+
 #### Install
 Install via RubyGems
 
