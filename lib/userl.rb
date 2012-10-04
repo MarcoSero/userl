@@ -12,7 +12,7 @@ class Userl
   #   => repos and languages infos
   #
   # Arguments:
-  #   language: (String)
+  #   user: (String)
   def self.start(user)
     all_languages = Hash.new
     starred_repos = 0
