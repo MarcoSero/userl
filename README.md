@@ -1,16 +1,18 @@
 # userl
-### A CLI to get the most used languages of a GitHub user
+### A CLI to get the most used languages of a GitHub user  
+
+[![endorse](http://api.coderwall.com/marcosero/endorsecount.png)](http://coderwall.com/marcosero)
 
 ___
 
-#### Install
+### Install
 Install via RubyGems
 
 ```sh
 $ gem install userl
 ```
 
-#### Usage
+### Usage
 
 ```sh
 $ userl marcosero
